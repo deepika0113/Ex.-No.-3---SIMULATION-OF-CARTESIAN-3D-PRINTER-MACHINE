@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 16.12.24
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -67,8 +67,9 @@
 ![Screenshot 2024-12-12 140303](https://github.com/user-attachments/assets/884296f5-abdb-45b4-b33f-39281ae26c25)
 
 
-### Name: Vinolia Alaina
-### Register Number: 24003757
+### Name: DEEPIKA.R
+### Register Number: 24900617
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+
